@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.CityTour" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#0B5D4F</item>
+    </style>
+</resources>
